@@ -21,6 +21,6 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`]().***
+***Here's an Example [`OUTPUT`](https://venocyber-profile-link.vercel.app/).***
 
 ---
